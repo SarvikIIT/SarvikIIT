@@ -34,8 +34,8 @@
 
 ## 📬 Contact & Links
 
-- **Email:** [See GitHub profile bio](https://github.com/SarvikIIT)
-- **Website:** [See GitHub profile bio](https://github.com/SarvikIIT)
+- **Email:** [Click Here](mailto:sarvik.student.cd.eee24@itbhu.ac.in)
+- **Website:** [Click Here](https://sarvik-portfolio.vercel.app)
 
 ---
 
