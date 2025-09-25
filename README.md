@@ -2,7 +2,7 @@
 <!-- Profile README for SarvikIIT -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7QpVh1b3dY8eI/giphy.gif" alt="Mario GIF" width="200"/>
+  <img src="[https://media.giphy.com/media/7QpVh1b3dY8eI/giphy.gif](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)" alt="Mario GIF" width="200"/>
 </p>
 
 # 👋 Hi, I'm Sarvik!
@@ -21,7 +21,6 @@
 - [HangOpt](https://github.com/SarvikIIT/HangOpt) — Optimization algorithms, performance-focused
 - [LadderNetwork](https://github.com/SarvikIIT/LadderNetwork) — Machine learning architectures
 - [Data Structures and Algorithms](https://github.com/SarvikIIT/Data-Structures-and-Algorithms) — My competitive programming toolkit
-- [story-flow](https://github.com/arailabs/story-flow) — Narrative generation for AI
 
 ---
 
