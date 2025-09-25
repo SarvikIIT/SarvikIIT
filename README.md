@@ -2,7 +2,7 @@
 <!-- Profile README for SarvikIIT -->
 
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="Mario GIF" width="200"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="Mario GIF" width="1000"/>
 </p>
 
 # 👋 Hi, I'm Sarvik!
