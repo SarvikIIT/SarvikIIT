@@ -19,8 +19,8 @@
 ## 🔥 Top Projects
 
 - [HangOpt](https://github.com/SarvikIIT/HangOpt) — Optimization algorithms, performance-focused
-- [LadderNetwork](https://github.com/SarvikIIT/LadderNetwork) — Machine learning architectures
-- [Data Structures and Algorithms](https://github.com/SarvikIIT/Data-Structures-and-Algorithms) — My competitive programming toolkit
+- [RayTracer](https://github.com/SarvikIIT/LadderNetwork) — Machine learning architectures
+- [Data Structures and Algorithms](https://github.com/SarvikIIT/DS-Algo) — My competitive programming toolkit
 
 ---
 
