@@ -46,7 +46,7 @@
 ## 📡 Connect With Me
 
 - 📧 [Email me here](mailto:sarvik.student.cd.eee24@itbhu.ac.in)
-- 🌐 [Visit my portfolio](https://sarvik-portfolio.vercel.app)
+- 🌐 [Visit my portfolio](https://www.sarvik.tech/)
 - 🏆 [View my Codeforces profile](https://codeforces.com/profile/Sarvik)
 - 💼 [Connect on LinkedIn](https://linkedin.com/in/sarvik1807)
 
